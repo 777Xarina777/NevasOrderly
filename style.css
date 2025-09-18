@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: #000; /* фон черный, можно поменять */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.full-screen {
+  max-width: 100%;
+  max-height: 100%;
+}
